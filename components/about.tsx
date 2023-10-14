@@ -22,7 +22,7 @@ export default function About() {
         the code works, the system can work.I{" "}
         <span className="underline">love</span>the feeling of finally figuring
         out a solution to a problem.My core stack is{" "}
-        <span className="font-medium">React,vue.js, Next.js, and Node.js</span>
+        <span className="font-medium">React.js,Next.js, and Node.js</span>
         .I am also familiar with TypeScript and Redux . I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
